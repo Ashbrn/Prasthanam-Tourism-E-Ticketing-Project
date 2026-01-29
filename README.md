@@ -90,10 +90,10 @@ npm run dev
 The app will launch at http://localhost:5173.
 ```
 
-#Future Scope
+# Future Scope
 
-Live Crowd Data: Integration with Google Places API for real-time popularity graphs.
+Live crowd data via Google Places API
 
-Payment Gateway: Razorpay integration for actual ticket payments.
+Razorpay payment gateway
 
-Hotel Recommendations: AI suggestions for ashrams/hotels near the first stop of the day.
+AI-based hotel & ashram recommendations
