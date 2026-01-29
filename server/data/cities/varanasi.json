@@ -1,0 +1,10 @@
+{
+  "city": "Varanasi",
+  "type": "Religious",
+  "crowdPeakHours": ["07:00-10:00", "17:00-21:00"],
+  "priorityTemples": [
+    "Kashi Vishwanath Temple",
+    "Dashashwamedh Ghat",
+    "Assi Ghat"
+  ]
+}

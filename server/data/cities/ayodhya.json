@@ -1,0 +1,10 @@
+{
+  "city": "Ayodhya",
+  "type": "Religious",
+  "crowdPeakHours": ["09:00-12:00", "18:00-20:00"],
+  "priorityTemples": [
+    "Ram Janmabhoomi",
+    "Hanuman Garhi",
+    "Kanak Bhawan"
+  ]
+}
