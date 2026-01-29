@@ -89,7 +89,9 @@ npm install
 npm run dev
 The app will launch at http://localhost:5173.
 ```
+
 #Future Scope
+
 Live Crowd Data: Integration with Google Places API for real-time popularity graphs.
 
 Payment Gateway: Razorpay integration for actual ticket payments.
